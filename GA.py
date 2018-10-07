@@ -15,7 +15,7 @@ arr = f.read().split('\n',1)
 N=arr[0]
 N = int(N,10)
 rating = arr[1]
-rating = rating.split(' ')'kl].'
+rating = rating.split(' ')
 f.close()
 rating = map(int,rating)
 
